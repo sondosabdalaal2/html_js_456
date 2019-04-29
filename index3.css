@@ -1,0 +1,45 @@
+
+.h1-style {
+     text-align: center;
+
+}
+.input-style {
+    height: 40px;
+    width: 80%;
+    border-radius: 8px;
+    margin-top: 16px; 
+}
+.content {
+ width: 400px;
+ height: 400px;
+ background-color:white;
+ position: absolute;
+ top :0;
+ left:0;
+ right:0;
+ bottom:0;
+ margin: auto;
+text-align: center;
+border-radius: 8px;
+box-shadow: 15px  15px  15px  15px #aaaaaa;
+
+}
+.button-style {
+    width: 80%;
+    height: 40px;
+    background-color: blue;
+    border-radius: 8px;
+    margin-top: 16px;
+    color: white ;
+    
+
+}
+body {
+    background-color: white;
+}
+.img-style {
+    height:55px;
+    display: none;
+    
+
+}
